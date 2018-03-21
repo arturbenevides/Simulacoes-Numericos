@@ -14,9 +14,10 @@ Programação não linear:
 
 ## Integração Númerica
 
-Fórmula de quadratura interpolatória
+* Fórmula de quadratura interpolatória
  >* Fórmula de Newton Cotes
-Fórmula de Quadratura de Gauss
+
+* Fórmula de Quadratura de Gauss
  >* Fórmula de Gauss-Legendre
  >* Fórmula de Gauss-Tchebyshev
  >* Fórmula de Gauss-Laguerre
