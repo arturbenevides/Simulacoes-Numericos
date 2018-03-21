@@ -2,6 +2,19 @@
 
 Programação não linear:
 
+## Equações não Lineares
+
+>* Método de Newton
+>* Método das Secantes
+>* Método Regula Falsi
+
+## Solução de sistemas Lineares: Métodos Iterativos
+
+>* Método de Jacobi-Richardson
+>* Método de Gauss-Seidel
+>* Método dos Gradientes
+>* Método dos Gradientes Conjugados (CG)
+
 ## Aproximação de Funções: Métodos de interpolação Polinomial
  
 >* Fórmula de Lagrange
