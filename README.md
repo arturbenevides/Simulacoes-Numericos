@@ -17,7 +17,7 @@ Programação não linear:
 Fórmula de quadratura interpolatória
  > Fórmula de Newton Cotes
 Fórmula de Quadratura de Gauss
- > Fórmula de Gauss-Legendre
+ >* Fórmula de Gauss-Legendre
  > Fórmula de Gauss-Tchebyshev
  > Fórmula de Gauss-Laguerre
  > Formula de Gauss-Hermite
