@@ -23,11 +23,14 @@ Programação não linear:
  >* Fórmula de Gauss-Laguerre
  >* Formula de Gauss-Hermite
 
-## Soluções Numéricas de Equações Diferenciais Ordinárias
+## Soluções Numéricas de Equações Diferenciais Ordinárias (EDO)
 
 >* Método de Taylor de Ordem q
 >* Métodos lineares de passo múltiplo
 >* Método preditor - corretor
 >* Métodos de Runge-Kutta
->*
->*
+
+## Soluções Numéricas de Equações Diferenciais Parciais (EDP)
+
+>* Método de diferenças finitas
+
