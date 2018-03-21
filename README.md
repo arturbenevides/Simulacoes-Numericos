@@ -27,8 +27,11 @@ Programação não linear:
 
 ## Integração Númerica
 
-### Fórmula de quadratura interpolatória
- >* Fórmula de Newton Cotes
+### Fórmula de  Newton Cotes
+
+>* Regra do Trapézio
+>* Regra de Simpson 1/3
+>* Regra de Simpson repetida
 
 ### Fórmula de Quadratura de Gauss
  >* Fórmula de Gauss-Legendre
@@ -38,9 +41,11 @@ Programação não linear:
 
 ## Soluções Numéricas de Equações Diferenciais Ordinárias (EDO)
 
->* Método de Taylor de Ordem q
+>* Método de Euler
+>* Método da série de Taylor
 >* Métodos lineares de passo múltiplo
->* Método preditor - corretor
+>* Método de Adans-Bashforth
+>* Método preditor-corretor
 >* Métodos de Runge-Kutta
 
 ## Soluções Numéricas de Equações Diferenciais Parciais (EDP)
