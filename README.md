@@ -1,6 +1,5 @@
 # Simulacoes aplicado a cálculo Numericos
 
-Programação não linear:
 
 ## Equações não Lineares
 
@@ -52,3 +51,9 @@ Programação não linear:
 
 >* Método de diferenças finitas
 
+
+
+### Transforma de Fourier 
+
+>* Inversa
+>* Rápida (FFT)
