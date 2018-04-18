@@ -1,5 +1,5 @@
 # Simulacoes aplicado a cálculo Numericos
-
+Artur
 
 ## Equações não Lineares
 
