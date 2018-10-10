@@ -4,6 +4,7 @@
 
 
 ### Transforma de Fourier 
-
+>* Direta
 >* Inversa
 >* Rápida (FFT)
+
